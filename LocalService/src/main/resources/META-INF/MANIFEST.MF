@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . libs/rabbitmq-client.jar libs/log4j-api-2.0.1.jar libs/log4j-core-2.0.1.jar libs/mqtt-client-0.4.0.jar LocalServer.jar Configuration.jar
+Main-Class: Main
+

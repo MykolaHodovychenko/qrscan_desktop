@@ -1,0 +1,3 @@
+[submodule "localwebpages"]
+	path = localwebpages
+	url = git@bitbucket.org:malibu_opu/localwebpages.git
